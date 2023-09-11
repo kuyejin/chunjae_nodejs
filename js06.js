@@ -36,3 +36,6 @@ console.log(`g : ${g}, h : ${h}, i : ${i}`); //i : ANGULAR
 //객체의 분해
 //let {m1, m2, m3, m4} = member;
 let {o1, o2, o3, o4} = { age:member.age, id:member.id, addr:member.addr, tel:member.tel };
+
+
+
